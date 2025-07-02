@@ -42,29 +42,25 @@
                     <div class="menu">
                     <ul>
     <li>
-        <a href="/" class="active">Home</a>
+        <a href="/" class="active">HOME</a>
     </li>
 
     <li>
-        <a href="/about">About Us</a>
-        <ul>
-            <li><a href="/about">Our Story</a></li>
-            <li><a href="/about">Founder</a></li>
-            <li><a href="/about">Our Team</a></li>
-        </ul>
-    </li>
-
-    <li>
-        <a href="/wellness">Nafsi nourish</a>
-       
-    </li>
-    <li>
-        <a href="/services">Services</a>
+        <a href="/about">ABOUT US</a>
        
     </li>
 
     <li>
-        <a href="/gallery">Gallery</a>
+        <a href="/wellness">NAFSI NOURISH</a>
+       
+    </li>
+    <li>
+        <a href="/services">SERVICES</a>
+       
+    </li>
+
+    <li>
+        <a href="/gallery">GALLERY</a>
        
     </li>
 
@@ -72,7 +68,7 @@
 
    
 
-    <li><a href="/contact">Contact</a></li>
+    <li><a href="/contact">CONTACT US</a></li>
 </ul>
 
                     </div>

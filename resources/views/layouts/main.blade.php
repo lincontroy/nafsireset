@@ -55,7 +55,7 @@
     </li>
 
     <li>
-        <a href="/wellness">Mental wellness techniques</a>
+        <a href="/wellness">Nafsi nourish</a>
        
     </li>
     <li>

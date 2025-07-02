@@ -171,7 +171,7 @@
                                         <p>“Before Nafsi Reset, I had no idea that therapy was even an option for someone like me. Now, I feel more in control of my emotions and hopeful about my future.”</p>
                                     </div>
                                     <div class="testimonial__thumb">
-                                        <img src="images/01.jpg" alt="testimonial-thumb" class="rounded-circle">
+                                        <img src="imagess/wanjiru.jpg" alt="testimonial-thumb" class="rounded-circle" style="width: 150px; height: 150px; object-fit: cover;">
                                     </div>
                                 </div>
                             </div>
@@ -185,7 +185,8 @@
                                         <p>“After experiencing job loss and depression, I found strength through the group therapy sessions. The counselors at Nafsi Reset truly care.”</p>
                                     </div>
                                     <div class="testimonial__thumb">
-                                        <img src="images/02.jpg" alt="testimonial-thumb" class="rounded-circle">
+                                    <img src="imagess/black.jpg" alt="testimonial-thumb" class="rounded-circle" style="width: 150px; height: 150px; object-fit: cover;">
+
                                     </div>
                                 </div>
                             </div>
@@ -199,7 +200,7 @@
                                         <p>“As a survivor of gender-based violence, the trauma-focused therapy helped me begin my healing journey. I finally feel seen and supported.”</p>
                                     </div>
                                     <div class="testimonial__thumb">
-                                        <img src="images/03.jpg" alt="testimonial-thumb" class="rounded-circle">
+                                        <img src="imagess/fatuma.jpg" alt="testimonial-thumb" class="rounded-circle" style="width: 150px; height: 150px; object-fit: cover;">
                                     </div>
                                 </div>
                             </div>

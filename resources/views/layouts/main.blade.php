@@ -34,7 +34,7 @@
     <header class="header" id="navbar">
         <div class="container">
             <nav class="navbar navbar-expand-lg">
-                <a class="navbar-brand" href="/"><img src="logo.png" alt="Nafsireset" width="100" height="100"></a>
+                <a class="navbar-brand" href="/"><img src="logo.png" alt="Nafsireset" width="100" height="250"></a>
                 <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler--icon"></span>
                 </button>

@@ -12,16 +12,7 @@
             <div class="volunteer volunteer-style2">
                 <div class="volunteer__item volunteer__item-style2">
                     <div class="volunteer__inner flex-row-reverse">
-                        <div class="volunteer__thumb">
-                            <div class="about__slider position-relative">
-                                <div class="swiper-wrapper">
-                                    <div class="swiper-slide"><img src="{{ asset('images/02.jpg') }}" alt="about-thumb"></div>
-                                    <div class="swiper-slide"><img src="{{ asset('images/02.jpg') }}" alt="about-thumb"></div>
-                                    <div class="swiper-slide"><img src="{{ asset('images/02.jpg') }}" alt="about-thumb"></div>
-                                </div>
-                                <div class="about__pagination"></div>
-                            </div>
-                        </div>
+                        
                         <div class="volunteer__content">
                             <div class="volunteer__top">
                                 <div class="volunteer__icon"><i class="far fa-user"></i></div>

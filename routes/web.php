@@ -26,5 +26,9 @@ Route::get('/donate', function () {
     return view('donate');
 });
 
+Route::get('/wellness', function () {
+    return view('wellness');
+});
+
 Route::post('/contact', [ContactController::class, 'submit'])->name('contact.submit');
 Route::post('/donate', [DonateController::class, 'submit'])->name('donate.submit');

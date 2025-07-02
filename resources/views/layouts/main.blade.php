@@ -55,6 +55,10 @@
     </li>
 
     <li>
+        <a href="/wellness">Mental wellness techniques</a>
+       
+    </li>
+    <li>
         <a href="/services">Services</a>
        
     </li>

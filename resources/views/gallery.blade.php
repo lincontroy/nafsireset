@@ -42,8 +42,8 @@
                                     </div>
                                 </div>
                                 <div class="gallery__title text-center mt-2">
-                                    <h5 class="mb-1">{{ Str::title(str_replace('_', ' ', pathinfo($image, PATHINFO_FILENAME))) }}</h5>
-                                    <span>Photo Gallery</span>
+                                    <h5 class="mb-1"></h5>
+                                   
                                 </div>
                             </div>
                         </div>

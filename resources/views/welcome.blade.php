@@ -143,7 +143,40 @@
                             <div class="volunteer__bottom">
                                 <p>Reset minds. Restore hope. Reclaim lives. At Nafsi Reset, we offer therapy that is culturally relevant and community-focused. Through services like Cognitive Behavioral Therapy, trauma healing, youth-focused support, and more, we use innovative approaches to support mental wellness and emotional resilience for all — especially in underserved communities.</p>
                             </div>
+                            <div class="volunteer__content">
+    <div class="volunteer__top">
+        <div class="volunteer__icon">
+            <i class="far fa-eye"></i>
+        </div>
+        <div class="volunteer__title">
+            <h5>Vision Statement</h5>
+            <h6>A world where mental health is stigma-free and support is accessible to all, especially the underserved.</h6>
+        </div>
+    </div>
+</div>
+
+<div class="volunteer__content">
+    <div class="volunteer__top">
+        <div class="volunteer__icon">
+            <i class="far fa-heart"></i>
+        </div>
+        <div class="volunteer__title">
+            <h5>Core Values</h5>
+            <h6>Our guiding principles in all we do.</h6>
+        </div>
+    </div>
+    <div class="volunteer__bottom">
+        <p><strong>Dignity</strong> – We believe every individual deserves respect, empathy, and non-judgmental care.</p>
+        <p><strong>Accessibility</strong> – We are committed to breaking financial and social barriers to mental health services.</p>
+        <p><strong>Community</strong> – We root our work in local realities, culture, and collective healing.</p>
+        <p><strong>Integrity</strong> – We uphold honesty, transparency, and ethical practice in all we do.</p>
+        <p><strong>Empowerment</strong> – We equip individuals and communities to reclaim their mental wellness journey.</p>
+        <p><strong>Advocacy</strong> – We boldly challenge stigma and promote mental health awareness in all spaces.</p>
+    </div>
+</div>
+
                         </div>
+                        
                     </div>
                 </div>
             </div>

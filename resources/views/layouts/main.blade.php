@@ -59,7 +59,7 @@
 
    
 
-    <li><a href="/contact">CONTACT US</a></li>
+    <li><a href="/contact">BOOK APPOINTMENT</a></li>
 </ul>
 
                     </div>

@@ -1,6 +1,14 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\AppointmentController;
+
+Route::get('/book-appointment', [AppointmentController::class, 'showForm'])->name('book.form');
+Route::post('/book-appointment', [AppointmentController::class, 'submitForm'])->name('book.submit');
+
+// For Google OAuth callback
+Route::get('/google-oauth', [AppointmentController::class, 'handleGoogleCallback'])->name('google.callback');
+
 
 Route::get('/', function () {
     return view('welcome');

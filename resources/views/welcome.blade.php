@@ -335,20 +335,13 @@
                         <h4>Contact Info</h4>
                         <p>Whether you're seeking support, collaborating, or asking a question — we’re here to listen. Reach out and a member of our mental wellness team will respond promptly.</p>
                         <ul>
-                            <li>
-                                <div class="contact__info-left">
-                                    <i class="fas fa-map-marker-alt"></i>
-                                </div>
-                                <div class="contact__info-right">
-                                    <p>Mombasa Road, Nairobi, Kenya</p>
-                                </div>
-                            </li>
+                            
                             <li>
                                 <div class="contact__info-left">
                                     <i class="fas fa-phone-volume"></i>
                                 </div>
                                 <div class="contact__info-right">
-                                    <p>+254 700 000 000</p>
+                                    <p>+254768469417</p>
                                 </div>
                             </li>
                             <li>
@@ -356,7 +349,7 @@
                                     <i class="fas fa-envelope-open-text"></i>
                                 </div>
                                 <div class="contact__info-right">
-                                    <p>info@nafsireset.org</p>
+                                    <p>info@nafsireset.com</p>
                                 </div>
                             </li>
                             <li>

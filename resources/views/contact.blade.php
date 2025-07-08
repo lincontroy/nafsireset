@@ -40,10 +40,9 @@
                 <div class="contact__info bg-ash p-4 rounded shadow">
                     <h5 class="mb-3">Our Contact Details</h5>
                     <ul class="list-unstyled">
-                        <li class="mb-2"><i class="fas fa-map-marker-alt me-2 text-primary"></i> Mombasa Road, Nairobi, Kenya</li>
-                        <li class="mb-2"><i class="fas fa-phone-alt me-2 text-primary"></i> +254 700 000 000</li>
-                        <li class="mb-2"><i class="fas fa-envelope me-2 text-primary"></i> info@nafsireset.org</li>
-                        <li class="mb-2"><i class="fas fa-globe me-2 text-primary"></i> www.nafsireset.org</li>
+                        <li class="mb-2"><i class="fas fa-phone-alt me-2 text-primary"></i> +254768469417</li>
+                        <li class="mb-2"><i class="fas fa-envelope me-2 text-primary"></i> info@nafsireset.com</li>
+                        <li class="mb-2"><i class="fas fa-globe me-2 text-primary"></i> www.nafsireset.com</li>
                     </ul>
                     <h6 class="mt-4">Social Media</h6>
                     <div class="footer__social mt-2">

@@ -123,6 +123,16 @@
                     </div>
                 </div>
             </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="service__item">
+                    <div class="service__icon"><i class="fas fa-hands-helping"></i></div>
+                    <div class="service__content">
+                        <h5>NatureNest</h5>
+                        <p>Where Young Minds Grow Safely
+                        NurtureNest is our children’s therapy program for ages 0–12, offering a safe and supportive space for emotional healing and growth. We use play, art, and talk therapy to help children manage big feelings, behavior challenges, trauma, and school-related issues. We also support parents with guidance and tools to better understand and connect with their child. Every session is gentle, engaging, and tailored to your child’s age and needs.</p>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </div>

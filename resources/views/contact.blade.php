@@ -3,9 +3,10 @@
 @section('content')
 <div class="container mt-5">
     <div class="card shadow-sm">
-        <div class="card-header bg-primary text-white">
-            <h4 class="mb-0">Book an Appointment</h4>
-        </div>
+    <div class="card-header text-white" style="background-color: #15854d;">
+    <h4 class="mb-0">Book an Appointment</h4>
+</div>
+
         <div class="card-body">
         @if(session('success'))
                 <div class="alert alert-success">{{ session('success') }}</div>

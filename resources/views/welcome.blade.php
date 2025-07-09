@@ -56,7 +56,7 @@
                                             <h4><mark>Support</mark> <mark>The Mission</mark></h4>
                                             <h2>Your Donation Can Reset a Life</h2>
                                             <p>Help us expand access to therapy and mental wellness programs in Kenya. Every contribution helps reduce stigma and bring healing.</p>
-                                            <a href="#" class="default-btn move-right"><span>Donate Now</span></a>
+                                            <a href="/contact" class="default-btn move-right"><span>BOOK APPOINTMENT</span></a>
                                         </div>
                                     </div>
                                 </div>
@@ -120,7 +120,7 @@
 <!-- ================> about section end here <================== -->
 
 <!-- ================> about section start here <================== -->
-<div class="about-section bg-white padding--top padding--bottom bg-ash">
+<div class="about-section bg-white padding--top padding--bottom">
     <div class="container">
         <div class="about">
             <div class="volunteer volunteer-style2">

@@ -3,7 +3,7 @@
 @section('content')
 
 <!-- ================> About section start here <================== -->
-<div id="about" class="about-section bg-white padding--top padding--bottom">
+<div id="about" class="bg-white padding--top padding--bottom">
     <div class="container">
         <div class="about about-style2">
             <div class="section-header style-2">
@@ -33,17 +33,17 @@
 </div>
 
 <!-- ================> Vision Section <================== -->
-<div class="about-section bg-ash padding--top padding--bottom">
+<div class="padding--top padding--bottom">
     <div class="container">
         <div class="section-header text-center">
-            <h2>Our Vision</h2>
+            <h2>OUR VISION</h2>
             <p class="lead">"A world where mental health is stigma-free and support is accessible to all, especially the underserved."</p>
         </div>
     </div>
 </div>
 
 <!-- ================> Core Values Section <================== -->
-<div class="about-section bg-white padding--top padding--bottom">
+<div class=" bg-white padding--top padding--bottom">
     <div class="container">
         <div class="section-header text-center">
             <h2>Our Core Values</h2>
@@ -98,10 +98,10 @@
 </div>
 
 <!-- ================> Founder section start here <================== -->
-<div class="about-section bg-ash padding--top padding--bottom">
+<div class=" padding--top padding--bottom">
     <div class="container">
         <div class="section-header text-center">
-            <h2>Founder</h2>
+            <h2>FOUNDER</h2>
             <p>Meet the visionary behind Nafsi Reset</p>
         </div>
         <div class="row justify-content-center">

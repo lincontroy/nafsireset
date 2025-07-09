@@ -48,7 +48,7 @@
                                 </div>
                             </div>
                             <div class="volunteer__bottom">
-                                <p>"A world where mental health is stigma-free and support is accessible to all, especially the underserved."</p>
+                                <p>"A world where mental health is stigma-free and support is accessible to all, especially the underserved communities."</p>
                             </div>
                         </div>
                     </div>

@@ -18,7 +18,7 @@
                                             <h4><mark>Mental Health</mark> <mark>For All</mark></h4>
                                             <h2>Healing Minds, Empowering Lives</h2>
                                             <p>Founded in Kenya, Nafsi Reset is committed to making emotional and psychological well-being accessible, affordable, and stigma-free—especially for underserved communities.</p>
-                                            <a href="#" class="default-btn move-right"><span>Learn More</span></a>
+                                            <a href="/contact" class="default-btn move-right"><span>BOOK APPOINTMENT</span></a>
                                         </div>
                                     </div>
                                 </div>
@@ -269,7 +269,7 @@
                         <li>WhatsApp Support Group</li>
                         <li>Online Resources</li>
                     </ul>
-                    <a href="#" class="default-btn move-right"><span>Join Now</span></a>
+                    <a href="/contact" class="default-btn move-right"><span>Join Now</span></a>
                 </div>
             </div>
 
@@ -284,7 +284,7 @@
                         <li>Mindfulness Toolkit</li>
                         <li>Custom Self-Care Plan</li>
                     </ul>
-                    <a href="#" class="default-btn move-right"><span>Book Session</span></a>
+                    <a href="/contact" class="default-btn move-right"><span>Book Session</span></a>
                 </div>
             </div>
 
@@ -299,7 +299,7 @@
                         <li>Priority Booking</li>
                         <li>Progress Tracking</li>
                     </ul>
-                    <a href="#" class="default-btn move-right"><span>Get Started</span></a>
+                    <a href="/contact" class="default-btn move-right"><span>Get Started</span></a>
                 </div>
             </div>
 

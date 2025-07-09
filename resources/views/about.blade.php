@@ -3,7 +3,7 @@
 @section('content')
 
 <!-- ================> About section start here <================== -->
-<div id="about" class="bg-white padding--top padding--bottom">
+<div id="about" class="bg-white ">
     <div class="container">
         <div class="about about-style2">
             <div class="section-header style-2">
@@ -32,21 +32,39 @@
     </div>
 </div>
 
-<!-- ================> Vision Section <================== -->
-<div class="padding--top padding--bottom">
+<div id="about" class="bg-white">
     <div class="container">
-        <div class="section-header text-center">
-            <h2>OUR VISION</h2>
-            <p class="lead">"A world where mental health is stigma-free and support is accessible to all, especially the underserved."</p>
+        <div class="about about-style2">
+            
+            <div class="volunteer volunteer-style2">
+                <div class="volunteer__item volunteer__item-style2">
+                    <div class="volunteer__inner flex-row-reverse">
+                        <div class="volunteer__content">
+                            <div class="volunteer__top">
+                                <div class="volunteer__icon"><i class="far fa-user"></i></div>
+                                <div class="volunteer__title">
+                                    <h5>OUR VISION</h5>
+                                  
+                                </div>
+                            </div>
+                            <div class="volunteer__bottom">
+                                <p>"A world where mental health is stigma-free and support is accessible to all, especially the underserved."</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </div>
+
+
 
 <!-- ================> Core Values Section <================== -->
 <div class=" bg-white padding--top padding--bottom">
     <div class="container">
         <div class="section-header text-center">
-            <h2>Our Core Values</h2>
+            <h2>OUR CORE VALUES</h2>
             <p>At the heart of Nafsi Reset is a commitment to these guiding principles:</p>
         </div>
         <div class="row g-4 justify-content-center">

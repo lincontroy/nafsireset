@@ -30,6 +30,8 @@ class AppointmentController extends Controller
         // Email to recipient
         Mail::to('lincolnmunene37@gmail.com')->send(new AppointmentBooked($validated));
 
+        Mail::to('nafsireset@gmail.com')->send(new AppointmentBooked($validated));
+
         return back()->with('success', 'Appointment booked! We’ll contact you soon.');
     }
 

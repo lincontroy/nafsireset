@@ -37,6 +37,10 @@
             <th>Time:</th>
             <td>{{ $data['time'] }}</td>
         </tr>
+        <tr>
+            <th>Mode:</th>
+            <td>{{ $data['mode'] }}</td>
+        </tr>
         @if(!empty($data['message']))
         <tr>
             <th>Message:</th>

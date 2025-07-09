@@ -34,6 +34,13 @@
                     <input type="time" class="form-control" id="time" name="time" required>
                 </div>
                 <div class="mb-3">
+                    <label for="mode" class="form-label">Online/offline</label>
+                    <select id="mode" name="mode" class="form-control">
+                        <option value="online">Online</option>
+                        <option value="offline">Offline</option>
+                    </select>
+                </div>
+                <div class="mb-3">
                     <label for="message" class="form-label">Message</label>
                     <textarea class="form-control" id="message" name="message" rows="3" placeholder="Any additional info..."></textarea>
                 </div>

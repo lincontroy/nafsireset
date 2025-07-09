@@ -5,7 +5,8 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Mail\AppointmentBooked;
 use Illuminate\Support\Facades\Mail;
-
+use Google\Client;
+use Google\Service\Calendar;
 
 class AppointmentController extends Controller
 {
@@ -17,6 +18,8 @@ class AppointmentController extends Controller
     public function submitForm(Request $request)
     {
 
+        // dd($request);
+
 
         $validated = $request->validate([
             'name' => 'required|string',
@@ -24,6 +27,7 @@ class AppointmentController extends Controller
             'phone' => 'required|string',
             'date' => 'required|date',
             'time' => 'required',
+            'mode' => 'required',
             'message' => 'nullable|string',
         ]);
 
@@ -31,6 +35,8 @@ class AppointmentController extends Controller
         Mail::to('lincolnmunene37@gmail.com')->send(new AppointmentBooked($validated));
 
         Mail::to('nafsireset@gmail.com')->send(new AppointmentBooked($validated));
+
+        
 
         return back()->with('success', 'Appointment booked! We’ll contact you soon.');
     }

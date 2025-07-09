@@ -3,7 +3,7 @@
 @section('content')
 <div class="container mt-5">
     <div class="card shadow-sm">
-    <div class="card-header text-white" style="background-color: #15854d;">
+    <div class="card-header text-white" style="background-color: #15854d;color:white;">
     <h4 class="mb-0">Book an Appointment</h4>
 </div>
 
@@ -37,7 +37,7 @@
                     <label for="message" class="form-label">Message</label>
                     <textarea class="form-control" id="message" name="message" rows="3" placeholder="Any additional info..."></textarea>
                 </div>
-                <button type="submit" class="btn btn-primary w-100">Book Appointment</button>
+                <button type="submit" class="btn w-100" style="background-color: #15854d;color:white;">Book Appointment</button>
             </form>
         </div>
     </div>

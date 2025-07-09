@@ -8,6 +8,24 @@
     <div class="banner banner-style2">
         <div class="banner__slider overflow-hidden position-relative">
             <div class="swiper-wrapper">
+            <div class="swiper-slide banner__padding bg-img banner-bg-6">
+                    <div class="container">
+                        <div class="row g-0">
+                            <div class="col-xl-6 col-md-8 col-12">
+                                <div class="banner__item">
+                                    <div class="banner__inner">
+                                        <div class="banner__content">
+                                            <h4><mark>Support</mark> <mark>The Mission</mark></h4>
+                                            <h2>Why you should book a session with us</h2>
+                                            <p>Therapy is a safe space to talk and grow . With the support of a trained therapist , you’ ll explore your thoughts and feelings , learn coping tools, and work towards personal healing.</p>
+                                            <a href="/contact" class="default-btn move-right"><span>BOOK APPOINTMENT</span></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
                 <div class="swiper-slide banner__padding bg-img banner-bg-4">
                     <div class="container">
                         <div class="row g-0">
@@ -37,7 +55,7 @@
                                             <h4><mark>Technology</mark> <mark>Meets Therapy</mark></h4>
                                             <h2>Innovative Care, Right at Your Fingertips</h2>
                                             <p>We blend clinical therapy with cutting-edge technology to break down barriers and provide support where it’s needed most.</p>
-                                            <a href="#" class="default-btn move-right"><span>Our Approach</span></a>
+                                            <a href="/contact" class="default-btn move-right"><span>Our Approach</span></a>
                                         </div>
                                     </div>
                                 </div>
@@ -46,24 +64,7 @@
                     </div>
                 </div>
 
-                <div class="swiper-slide banner__padding bg-img banner-bg-6">
-                    <div class="container">
-                        <div class="row g-0">
-                            <div class="col-xl-6 col-md-8 col-12">
-                                <div class="banner__item">
-                                    <div class="banner__inner">
-                                        <div class="banner__content">
-                                            <h4><mark>Support</mark> <mark>The Mission</mark></h4>
-                                            <h2>Your Donation Can Reset a Life</h2>
-                                            <p>Help us expand access to therapy and mental wellness programs in Kenya. Every contribution helps reduce stigma and bring healing.</p>
-                                            <a href="/contact" class="default-btn move-right"><span>BOOK APPOINTMENT</span></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                
             </div>
             <div class="banner__pagination"></div>
         </div>

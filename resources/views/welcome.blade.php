@@ -337,14 +337,19 @@
                         <p>Whether you're seeking support, collaborating, or asking a question — we’re here to listen. Reach out and a member of our mental wellness team will respond promptly.</p>
                         <ul>
                             
-                            <li>
-                                <div class="contact__info-left">
-                                    <i class="fas fa-phone-volume"></i>
-                                </div>
-                                <div class="contact__info-right">
-                                    <p>+254768469417</p>
-                                </div>
-                            </li>
+                        <li>
+                            <div class="contact__info-left">
+                                <i class="fas fa-phone-volume"></i>
+                            </div>
+                            <div class="contact__info-right">
+                                <p>
+                                    <a href="tel:+254768469417" class="text-decoration-none text-dark">
+                                        +254 768 469 417
+                                    </a>
+                                </p>
+                            </div>
+                        </li>
+
                             <li>
                                 <div class="contact__info-left">
                                     <i class="fas fa-envelope-open-text"></i>

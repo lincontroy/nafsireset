@@ -337,16 +337,19 @@
                         <p>Whether you're seeking support, collaborating, or asking a question — we’re here to listen. Reach out and a member of our mental wellness team will respond promptly.</p>
                         <ul>
                             
-                        <li>
-                            <a href="tel:+254768469417" class="d-flex align-items-center text-decoration-none text-dark">
-                                <div class="contact__info-left me-2">
+                        <li class="d-flex align-items-center">
+                            <div class="contact__info-left me-2">
+                                <a href="tel:+254768469417" class="text-decoration-none text-dark">
                                     <i class="fas fa-phone-volume fa-lg"></i>
-                                </div>
-                                <div class="contact__info-right">
+                                </a>
+                            </div>
+                            <div class="contact__info-right">
+                                <a href="tel:+254768469417" class="text-decoration-none text-dark">
                                     <p class="mb-0">+254 768 469 417</p>
-                                </div>
-                            </a>
+                                </a>
+                            </div>
                         </li>
+
 
 
                             <li>

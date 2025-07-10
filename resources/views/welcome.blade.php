@@ -338,17 +338,16 @@
                         <ul>
                             
                         <li>
-                            <div class="contact__info-left">
-                                <i class="fas fa-phone-volume"></i>
-                            </div>
-                            <div class="contact__info-right">
-                                <p>
-                                    <a href="tel:+254768469417" class="text-decoration-none text-dark">
-                                        +254 768 469 417
-                                    </a>
-                                </p>
-                            </div>
+                            <a href="tel:+254768469417" class="d-flex align-items-center text-decoration-none text-dark">
+                                <div class="contact__info-left me-2">
+                                    <i class="fas fa-phone-volume fa-lg"></i>
+                                </div>
+                                <div class="contact__info-right">
+                                    <p class="mb-0">+254 768 469 417</p>
+                                </div>
+                            </a>
                         </li>
+
 
                             <li>
                                 <div class="contact__info-left">

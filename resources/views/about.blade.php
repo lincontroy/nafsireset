@@ -126,7 +126,7 @@
             <div class="col-lg-4 col-md-6 col-sm-8">
                 <div class="team__item text-center">
                     <div class="team__thumb">
-                        <img src="imagess/founder.jpg" alt="Founder" class="rounded-circle" style="width: 200px; height: 200px; object-fit: cover;">
+                        <img src="founder.png" alt="Founder" class="rounded-circle" style="width: 200px; height: 200px; object-fit: cover;">
                     </div>
                     <div class="team__content">
                         <h5>Patricia Ogega Moraa</h5>
